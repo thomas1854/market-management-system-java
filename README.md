@@ -133,3 +133,6 @@ All team members contributed to the system design, implementation, and testing.
 6. **Run the application**
   - Click Run Project in NetBeans
   - The application will connect to the database and start normally
+  - Login
+    - Username: admin
+    - Password: admin
