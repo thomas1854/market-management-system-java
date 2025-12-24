@@ -91,6 +91,9 @@ The system provides tools for tracking inventory, monitoring sales, managing rec
 ## 📷 Project Media
 ![Hardware Implementation](market-main-frame.png)
 
+**Database Entity Relationship Diagram (ERD)**
+![ERD](erd.jpeg)
+
 ---
 
 ## ▶️ How to Run / Install
