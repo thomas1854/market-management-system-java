@@ -85,6 +85,11 @@ All team members contributed to the system design, implementation, and testing.
 
 ---
 
+## 📷 Project Media
+![Hardware Implementation](market-main-frame.png)
+
+---
+
 ## ▶️ How to Run / Install
 
 ### Prerequisites
