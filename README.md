@@ -76,6 +76,7 @@ The system provides tools for tracking inventory, monitoring sales, managing rec
 - Toqa Khaled ([GitHub](https://github.com/Toka7806))
 - Gommana Mohamed ([GitHub](https://github.com/GoGo285))
 - Thomas Hany ([GitHub](https://github.com/thomas1854))
+- Aya Wael ([GitHub](https://github.com/ayooya154-creator))
 
 ---
 
