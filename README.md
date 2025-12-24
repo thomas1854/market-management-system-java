@@ -70,9 +70,12 @@ The system provides tools for tracking inventory, monitoring sales, managing rec
 
 ---
 
-## 🤝 Team Contribution
-This project was developed as a **team project**.  
-All team members contributed to the system design, implementation, and testing.
+## 👥 Team Members
+- Badr Ahmed ([GitHub](https://github.com/KIRA-20000))
+- Toqa Hany ([GitHub](https://github.com/Toqa-Hany))
+- Toq Khaled ([GitHub](https://github.com/Toka7806))
+- Gommana Mohamed ([GitHub](https://github.com/GoGo285))
+- Thomas Hany ([GitHub](https://github.com/thomas1854))
 
 ---
 
