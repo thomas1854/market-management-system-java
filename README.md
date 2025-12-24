@@ -110,7 +110,7 @@ All team members contributed to the system design, implementation, and testing.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/your-username/market-management-system-java.git
 2. **Open the project**
   - Open NetBeans
   - Select File → Open Project
